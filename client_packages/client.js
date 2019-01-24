@@ -1,4 +1,10 @@
-/* (c) Xendom Rayden / raydN development */
+/*
+
+	Register-Login
+	2019
+	© Xendom Rayden
+	
+*/
 
 var cef = mp.browsers.new("package://assets/registerLogin.html");
 mp.gui.cursor.visible = true;
