@@ -11,7 +11,15 @@ hashCode = function(str) {
 	return hash;
 };
 
-/* (c) Xendom Rayden / raydN development */
+/*
+
+	Register-Login
+	2019
+	© Xendom Rayden
+	
+	↓↓↓
+	
+*/
 
 /* Database */
 let mysql = require("mysql");
